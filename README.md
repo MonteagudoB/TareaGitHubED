@@ -14,3 +14,7 @@ Ya descargado en local el *rep* he creado la carpeta y añadido la captura de mo
 
 #### Finalización
 Modificando el ReadMe para acabar la tarea, e intentar dejarlo presentable, cumpliendo así los objetivos propuestos en la tarea, con múltiples commits de tanto probar y modificar para aprender de **Git** y **GitHub**.
+
+Finalmente para tener actualizado el rep local con la modificación que estoy haciendo del archivo Readme.md , he usado los comandos **git fetch**, para descargar los cambios sin aplicarlos aún, y tras esto el comando **git pull origin main** para actualizarlo. Y de esta manera tengo lo mismo en local que en "red".
+
+
